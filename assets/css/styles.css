@@ -1,5 +1,6 @@
 body img {
     width: 100%;
+    font-family: 'Bangers', cursive;
 }
 
 .header-wrapper {
@@ -10,6 +11,7 @@ body img {
     background-color: #b91000;
     display: flex;
     justify-content: space-between;
+    font-family: 'Bangers', cursive;
 }
 
 .left-head {
